@@ -1,0 +1,25 @@
+{
+  "api": {
+    "include": {
+      "*": "*"
+    }
+  },
+  "extend": {
+    "models": [],
+    "routes": [
+      "process",
+      "processes"
+    ],
+    "schema_types": [],
+    "serializers": []
+  },
+  "graphql": {
+    "include": {
+      "*": "*"
+    }
+  },
+  "last_build_version": "0.5.5",
+  "platform": "django",
+  "project_description": "This repository contains the part of the Backend for the Romans Assesment",
+  "project_name": "Decimal to Roman Number Converter"
+}
